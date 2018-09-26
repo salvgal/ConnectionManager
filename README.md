@@ -6,6 +6,6 @@ Assignment1: Create a Message passing in a centralized environment using Java IO
 
 Assignment2: Create a Message passing in a centralized environment using Java IO Pipes. A asynchronous message passing between more than 2 peers for both primitives and Objects.
 
-Project1: Create an immaginary story of students that go to the college by bus, walking, and commuting. A Multithreading application where all these objects are threads that have to compete for the shared synchronized resources. 
+Project1: Create an immaginary story of students that go to the college by bus, walking, and commuting. A Multithreading application where the characters of the story are threads that have to run their story and compete for the shared synchronized resources.
 
-Project2: Use of the Project1 in a Client-Server distributed system usign Java Sockets. The client run the thread that connect to the server by sockets and the server run the required tasks. Final output have to be the same of Project1 but ordered by the client and run by the server.
+Project2: Use of the Project1 in a Client-Server distributed system usign Java Sockets. The client run the threads that connect to the server by sockets and the server execute the required tasks. Final output have to be the same of Project1 but requested by the client and committed by the server.
