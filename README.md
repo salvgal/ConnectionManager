@@ -1,6 +1,6 @@
 # Connection Manager
 
-These projects are homework assignments and final projects for the University graduate level class: CS 715 - Distributed Computing.
+These projects are for the University graduate level class: CS 715 - Distributed Computing.
 
 Project1: Create a Message passing in a centralized environment using Java IO Pipes. Synchronous message passing between sender and receiver of primitives read from the InputStream.
 
