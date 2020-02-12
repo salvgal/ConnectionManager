@@ -1,6 +1,6 @@
-# Connection Manager
+# Connection Manager (Distributed Systems and Multithreading)
 
-These projects are for the University graduate level class: CS 715 - Distributed Computing.
+These are several projects developed to improve Distributed Computing in addition to multithreading systems. They implements Java Sockets & Pipes for the former, and Java Thread library for the latter. 
 
 Project1: Create a Message passing in a centralized environment using Java IO Pipes. Synchronous message passing between sender and receiver of primitives read from the InputStream.
 
